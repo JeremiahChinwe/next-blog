@@ -10,7 +10,7 @@ export default function Home() {
         <span
           className="whitespace-nowrap"
         >
-          I'm <span className="font-bold">Jerry</span>.
+          I&apos;m <span className="font-bold">Jerry</span>.
         </span>
       </p>
       <Posts />
